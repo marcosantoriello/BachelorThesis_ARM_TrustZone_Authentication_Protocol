@@ -1,6 +1,6 @@
 # BachelorThesis_ARM_TrustZone_Authentication_Protocol
 
-This repository contains the implementation of a **challenge-response authentication protocol** developed as part of my Bachelor's thesis. The project demonstrates how ARM TrustZone can be utilized to manage critical security operations on an embedded system, specifically using an STM32 microcontroller. The TrustZone provides a hardware-based separation between the secure and non-secure worlds, ensuring that sensitive cryptographic operations, such as key handling and session token management, are performed securely.
+This repository contains the implementation of a **challenge-response authentication protocol** developed as part of my Bachelor's thesis titled "Study of ARM TrustZone and Implementation of Security Solutions for Embedded Devices". The project demonstrates how ARM TrustZone can be utilized to manage critical security operations on an embedded system, specifically using an STM32 microcontroller. The TrustZone provides a hardware-based separation between the secure and non-secure worlds, ensuring that sensitive cryptographic operations, such as key handling and session token management, are performed securely.
 
 ## Table of Contents
 - [BachelorThesis\_ARM\_TrustZone\_Authentication\_Protocol](#bachelorthesis_arm_trustzone_authentication_protocol)
