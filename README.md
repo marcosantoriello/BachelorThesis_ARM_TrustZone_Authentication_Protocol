@@ -35,7 +35,7 @@ To run the project, follow these steps:
 2. **Run the External Terminal Script**:
    - Navigate to the `External_Terminal/` folder and run the Python script:
      ```bash
-     python external_terminal.py
+     python terminal_sim.py
      ```
    - Make sure to **start the script a few seconds after flashing** the program to the board to allow the initialization of the TrustZone environment.
 
